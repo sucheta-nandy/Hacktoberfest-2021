@@ -6,3 +6,5 @@ Pull requests can be made in any GitHub-hosted repositories/projects.
 ### You can sign up anytime between October 1 and October 31.
 
 ## Kindly submit quality codes as "The quality of pull requests is paramount; quantity comes second"
+
+![image](https://user-images.githubusercontent.com/56711086/135704901-a65d0bb8-a94d-49ce-8819-d289f3c0892f.png)
